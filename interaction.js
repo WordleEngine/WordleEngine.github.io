@@ -274,5 +274,5 @@ const image2 = document.getElementsByClassName('infinity')[0];
 
 image2.addEventListener('click', function(event) {
     event.preventDefault();
-    window.location.href = 'https://wordleengine.github.io';
+    window.location.href = 'https://wordleengine.github.io/unlimited';
 });
